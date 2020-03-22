@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-class EventTest {
+public class EventTest {
 
     // 생성자 테스트 코드
     @Test
